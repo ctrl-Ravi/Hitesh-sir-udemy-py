@@ -28,7 +28,7 @@ while True:
     except ValueError:
         print("Invalid input, please enter a whole number")
 
-print("\n 🔔 Timer Started.....")
+print("\n🔔 Timer Started.....")
 for remaining in range(seconds,0, -1):
     mins, secs= divmod(remaining,60)
     time_format= f"{mins:02}:{secs:02}"
