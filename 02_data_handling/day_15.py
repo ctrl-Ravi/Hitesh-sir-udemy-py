@@ -31,7 +31,7 @@ from collections import Counter
 
 FILENAME= "weather_logs.csv"
 
-API_KEY="37b756a3e9b0f0953cb948b54bac38fe"
+API_KEY="hidden"
 #Key are usually hidden in .env file but that is for later
 
 if not os.path.exists(FILENAME):
