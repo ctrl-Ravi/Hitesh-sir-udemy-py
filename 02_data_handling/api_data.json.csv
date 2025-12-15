@@ -1,0 +1,5 @@
+id,name,email,location,is_active
+101,Ravi,ravi@gmail.com,Delhi,True
+102,Prakash,praksh@gmail.com,jaipur,False
+103,shashi,shashi@gmail.com,kolkata,False
+104,mikkel,mikkel@gmail.com,winden,True

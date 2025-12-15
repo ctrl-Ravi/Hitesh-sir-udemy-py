@@ -1,0 +1,31 @@
+[
+    {
+        "id": 101,
+        "name": "Ravi",
+        "email": "ravi@gmail.com",
+        "location":"Delhi",
+        "is_active": true
+    },
+    {
+        "id": 102,
+        "name": "Prakash",
+        "email": "praksh@gmail.com",
+        "location":"jaipur",
+        "is_active": false
+    },
+    {
+        "id": 103,
+        "name": "shashi",
+        "email": "shashi@gmail.com",
+        "location":"kolkata",
+        "is_active": false
+    },
+    {
+        "id": 104,
+        "name": "mikkel",
+        "email": "mikkel@gmail.com",
+        "location":"winden",
+        "is_active": true
+    }
+
+]
