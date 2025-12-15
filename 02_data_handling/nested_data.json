@@ -1,0 +1,13 @@
+{
+    "user": {
+        "id":1,
+        "name":"Ravi",
+        "email": "ravi@gmail.com",
+        "address": {
+            "city": "Delhi",
+            "pincode": 11021
+        }
+    },
+    "roles":["asdmin", "editor"],
+    "is_active": true
+}

@@ -1,0 +1,10 @@
+{
+  "user.id": 1,
+  "user.name": "Ravi",
+  "user.email": "ravi@gmail.com",
+  "user.address.city": "Delhi",
+  "user.address.pincode": 11021,
+  "roles.0": "asdmin",
+  "roles.1": "editor",
+  "is_active": true
+}
