@@ -1,0 +1,68 @@
+[
+  {
+    "Date": "2025-12-14",
+    "City": "Delhi",
+    "Temperature": "13.05",
+    "Condition": "Fog"
+  },
+  {
+    "Date": "2025-12-14",
+    "City": "Pune",
+    "Temperature": "19.11",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-12-14",
+    "City": "Jaipur",
+    "Temperature": "14.62",
+    "Condition": "Haze"
+  },
+  {
+    "Date": "2025-12-14",
+    "City": "Kolkata",
+    "Temperature": "17.97",
+    "Condition": "Haze"
+  },
+  {
+    "Date": "2025-06-11",
+    "City": "Delhi",
+    "Temperature": "36.5",
+    "Condition": "Clear"
+  },
+  {
+    "Date": "2025-06-12",
+    "City": "Delhi",
+    "Temperature": "37.8",
+    "Condition": "Sunny"
+  },
+  {
+    "Date": "2025-06-13",
+    "City": "Delhi",
+    "Temperature": "38.0",
+    "Condition": "Sunny"
+  },
+  {
+    "Date": "2025-06-14",
+    "City": "Delhi",
+    "Temperature": "34.2",
+    "Condition": "Rain"
+  },
+  {
+    "Date": "2025-06-15",
+    "City": "Delhi",
+    "Temperature": "35.0",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-06-16",
+    "City": "Delhi",
+    "Temperature": "33.4",
+    "Condition": "Rain"
+  },
+  {
+    "Date": "2025-06-17",
+    "City": "Delhi",
+    "Temperature": "34.7",
+    "Condition": "Clear"
+  }
+]
